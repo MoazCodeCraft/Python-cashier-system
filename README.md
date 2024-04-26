@@ -1,1 +1,1 @@
-# Python-cashier-system
+# Python-Combination formula
